@@ -1,0 +1,58 @@
+[
+    {
+        "ID": 1,
+        "Name": "Elektronik"
+    },
+    {
+        "ID": 2,
+        "Name": "Çanta"
+    },
+    {
+        "ID": 3,
+        "Name": "Cilt Bakım"
+    },
+    {
+        "ID": 4,
+        "Name": "Beyaz Eşya"
+    },
+    {
+        "ID": 5,
+        "Name": "Kişisel Bakım"
+    },
+    {
+        "ID": 6,
+        "Name": "Ayakkabı"
+    },
+    {
+        "ID": 7,
+        "Name": "Saat"
+    },
+    {
+        "ID": 8,
+        "Name": "Aksesuar"
+    },
+    {
+        "ID": 9,
+        "Name": "PetShop"
+    },
+    {
+        "ID": 10,
+        "Name": "Mobilya"
+    },
+    {
+        "ID": 11,
+        "Name": "Islak Mendil"
+    },
+    {
+        "ID": 12,
+        "Name": "Kozmetik"
+    },
+    {
+        "ID": 13,
+        "Name": "Şampuan"
+    },
+    {
+        "ID": 14,
+        "Name": "Makyaj Malzemeleri"
+    }
+]

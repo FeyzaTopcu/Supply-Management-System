@@ -1,0 +1,27 @@
+[
+    {
+        "ID": 1,
+        "Username": "FeyzaTopcu",
+        "FirstName": "Feyza",
+        "LastName": "Topçu",
+        "Interest": "Elektronik,Çanta,Cilt Bakım, Beyaz Eşya,Kişisel Bakım,Ayakkabı",
+        "Profile": "https://www.instagram.com/feyzaa.topcu/"
+    },
+
+    {
+        "ID": 2,
+        "Username": "GokselOrakci",
+        "FirstName": "Goksel",
+        "LastName": "Orakçı",
+        "Interest": "Saat, Aksesuar, PetShop, Mobilya, Islak Mendil",
+        "Profile": "https://www.instagram.com/goksel_orakci/"
+    },
+    {
+        "ID": 3,
+        "Username": "NergisOztekin",
+        "FirstName": "Nergis",
+        "LastName": "Öztekin",
+        "Interest": "Kozmetik, Şampuan, Makyaj Malzemeleri",
+        "Profile": "https://www.instagram.com/oztekinnergis/"
+    }
+]
